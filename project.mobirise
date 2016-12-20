@@ -109,7 +109,7 @@
             "showButtons": true,
             "showArrow": true
           },
-          "title": "<p>Easy eInvoice &nbsp; &nbsp;<br></p>簡單、近乎免費的<br>電子發票解決方案",
+          "title": "<p><span style=\"font-family: inherit;\"><font color=\"#000000\">只要會Excel</font></span><br></p>就能輕鬆搞定電子發票",
           "text": "自2017年1月1日起，新設立的公司行號將無法申請使用二聯式/三聯式電子計算機發票，只能使用電子發票。電子計算機發票落日在即，讓<b>Easy eInvoice</b>幫助您無痛轉換。<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"price.html\" data-toolbar=\"-mbrBtnMove\">了解更多</a> "
         },
@@ -351,7 +351,7 @@
           "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#252525",
+              "color": "#ffffff",
               "text-align": "right"
             },
             ".mbr-article": {
@@ -369,7 +369,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -384,7 +384,7 @@
           },
           "title": "讓Easy eInvoice解決您的困擾",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"price.html\" data-toolbar=\"-mbrBtnMove\">了解解決方案</a> "
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"price.html\" data-toolbar=\"-mbrBtnMove\">了解解決方案</a> "
         },
         {
           "_tags": [
@@ -398,7 +398,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -549,7 +549,15 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#efefef"
+            }
+          }
         },
         {
           "_inherit": "msg-box3",
@@ -585,7 +593,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -674,7 +682,7 @@
             "overlayColor": "#222",
             "showTitle": true
           },
-          "title": "若您對Easy eInvoice<font color=\"#000000\">感到興趣，希望索取使用</font><br>請留下資料讓我們提供更進一步的資訊給您<br>",
+          "title": "若您對Easy eInvoice<font color=\"#000000\">感到興趣，希望\"免費使用\"</font><br>請留下資料讓我們提供更進一步的資訊給您<br>",
           "form": {
             "action": "koei1025@hotmail.com",
             "alerts": {
@@ -698,7 +706,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "內容描述"
+                "customTitle": "電子發票使用上的困難描述"
               }
             }
           },

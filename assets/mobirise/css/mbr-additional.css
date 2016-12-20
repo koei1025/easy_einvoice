@@ -59,7 +59,7 @@
 }
 #content5-5 .mbr-header .mbr-header__text {
   text-align: center;
-  color: #fff;
+  color: #252525;
   font-size: 25px;
 }
 #content5-5 .mbr-header .mbr-header__subtext {
@@ -68,6 +68,9 @@
 }
 #content5-5 .mbr-article {
   color: #fff;
+}
+#content5-5 .mbr-article P {
+  color: #2c2c2c;
 }
 #form1-a .mbr-header__text {
   font-size: 20px;

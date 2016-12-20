@@ -615,7 +615,7 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#fff",
+              "color": "#252525",
               "font-size": "25px"
             },
             ".mbr-header .mbr-header__subtext": {
@@ -624,6 +624,9 @@
             },
             ".mbr-article": {
               "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#2c2c2c"
             }
           },
           "_tags": [
